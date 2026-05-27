@@ -133,7 +133,7 @@ If these 14 workflows worked for you, the companion volume **[50 AI Workflows fo
 
 ## Links
 
-- [Amazon Kindle]([https://www.amazon.com/dp/B0GZHP3X8L](https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging-ebook/dp/B0GX39Z8CH/ref=tmm_kin_swatch_0)) · [Amazon Paperback](https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging/dp/B0H2528MHY/ref=tmm_pap_swatch_0)
+- [Amazon Kindle](https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging-ebook/dp/B0GX39Z8CH/ref=tmm_kin_swatch_0) · [Amazon Paperback](https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging/dp/B0H2528MHY/ref=tmm_pap_swatch_0)
 - [Companion volume: 50 AI Workflows for Engineers](https://www.amazon.com/Workflows-Engineers-Debugging-Engineering-Automation/dp/B0GZJNMY9C)
 
 ---
