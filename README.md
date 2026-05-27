@@ -12,7 +12,7 @@ Users' review:
 </p>
 
 <p align="center">
-  <a href="https://www.amazon.com/dp/B0GZHP3X8L">📘 Get the Kindle eBook</a> · <a href="https://www.amazon.com/dp/B0GZJNMY9C">📖 Get the Paperback</a>
+  <a href="https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging-ebook/dp/B0GX39Z8CH/ref=tmm_kin_swatch_0">📘 Get the Kindle eBook</a> · <a href="https://www.amazon.com/AI-Workflows-Engineers-Days-Debugging/dp/B0H2528MHY/ref=tmm_pap_swatch_0">📖 Get the Paperback</a>
 </p>
 
 <p align="center">
