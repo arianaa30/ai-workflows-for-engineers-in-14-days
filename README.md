@@ -39,11 +39,11 @@ You don't have time for a 300-page playbook. This 14-day quick-start gives you t
 | **2** | Generate useful PR descriptions from any diff |
 | **3** | A 5-step debugging workflow that cuts diagnosis time by 75% |
 | **4** | Find root causes from logs without reading 10,000 lines |
-| **5** | Write technical documentation that engineers actually read |
-| **6** | Turn meetings and Slack chaos into action items |
+| **5** | Decode legacy code you didn't write (and nobody documented) |
+| **6** | Vibe coding: when it works, when it breaks, and how to stay in control |
 | **7** | Handle production incidents with AI by your side at 3am |
 | **8** | Translate requirements into technical architecture drafts |
-| **9** | AI-assisted code reviews that catch what humans miss |
+| **9** | Build LLM-as-Judge evaluation pipelines for AI quality at scale |
 | **10** | Generate comprehensive test coverage in minutes |
 | **11** | Build a personal AI assistant that knows your codebase |
 | **12** | The multi-model strategy that top engineers use every day |
@@ -88,24 +88,23 @@ Based on this information:
 4. Should I rollback immediately or investigate first?
 ```
 
-### Day 13: Build AI Agents with MCP and Multi-Agent Orchestration
+### Day 9: Build an LLM-as-Judge Evaluation Pipeline
 
 ```
-I want to build a multi-agent system for code review with three
-specialized agents:
+I need to evaluate my LLM application's output quality at scale.
+Design an evaluation pipeline using the LLM-as-Judge pattern:
 
-Agent 1 (Security Reviewer): Checks for security vulnerabilities.
-  Tools: code search, CVE database lookup, OWASP checklist
-Agent 2 (Performance Reviewer): Checks for performance issues.
-  Tools: code search, complexity analysis, benchmark lookup
-Agent 3 (Style Reviewer): Checks for style and convention violations.
-  Tools: code search, project convention file, linter
+Application: Customer support chatbot
+Quality dimensions to evaluate:
+- Accuracy (factual correctness against our knowledge base)
+- Helpfulness (does it actually solve the customer's problem?)
+- Tone (professional, empathetic, not robotic)
 
-Design the orchestration:
-1. How do the agents divide the work?
-2. How do they share findings?
-3. How do they avoid conflicting recommendations?
-4. What does the final consolidated report look like?
+For each dimension, design:
+1. A scoring rubric (1-5 scale with specific criteria)
+2. A judge prompt that evaluates responses consistently
+3. A calibration method (how do I verify the judge is reliable?)
+4. An aggregation strategy for overall quality scores
 ```
 
 ## Every Chapter Includes
@@ -125,7 +124,7 @@ Design the orchestration:
 
 ## Want the Full Playbook?
 
-If these 14 workflows worked for you, the companion volume **[50 AI Workflows for Engineers: From Debugging to System Design, Code Review & Engineering Automation](https://www.amazon.com/Workflows-Engineers-Debugging-Engineering-Automation/dp/B0GZJNMY9C)** covers another 36 patterns: legacy code explanation, building knowledge bases, requirements-to-architecture chains, LLM-as-Judge evaluation pipelines, security scanning, threat modeling, vibe coding, and the senior engineering patterns that compound over a career.
+If these 14 workflows worked for you, the companion volume **[50 AI Workflows for Engineers: From Debugging to System Design, Code Review & Engineering Automation](https://www.amazon.com/Workflows-Engineers-Debugging-Engineering-Automation/dp/B0GZJNMY9C)** covers another 36 patterns: building knowledge bases, breaking down large tasks, code review at scale, requirements-to-architecture deep dives, database modeling, performance optimization, security scanning, threat modeling, RAG systems, prompt optimization, and the senior engineering patterns that compound over a career.
 
 ## About the Author
 
